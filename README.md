@@ -93,12 +93,6 @@ python app.py
 
 ---
 
-## 📈 GitHub Stats
-
-![Meet Maru's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivengexnce&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00FFB3&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117)
-
----
-
 ## 🌱 Currently Learning
 
 - **ML Engineering** — model deployment, monitoring, and retraining pipelines
